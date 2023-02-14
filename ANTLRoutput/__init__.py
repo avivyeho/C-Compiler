@@ -1,0 +1,5 @@
+from ANTLRoutput.MyGrammarParser import MyGrammarParser
+from ANTLRoutput.MyGrammarLexer import MyGrammarLexer
+from ANTLRoutput.MyGrammarListener import MyGrammarListener
+from ANTLRoutput.MyGrammarVisitor import MyGrammarVisitor
+

@@ -1,0 +1,48 @@
+#include <stdio.h>
+
+void x(int d, int& g, int*c){
+
+    x = m(2,5) + 9;
+    char X = 'F';
+    char c[8] = {'g','g','g','g'};
+    printf("hi %d",a,a);
+    printf("hi %d",a);
+    printf("hi %",a);
+    scanf("%d",&a,&b,&c);
+
+    if(x>9 && x<89 || x >7 || x and 6 || x+9 == 8 || x!=8){
+    int x = 8;
+    }
+
+    return m(7,8);
+
+}
+
+
+int x =8;
+x = mult(8,9) +6 ;
+
+int main(){
+    int x = mul(5,7);
+    while(x > 9){
+    if( x >8 ){
+       int* m =&k;
+    }else{
+        while(x>9){
+           int c =8;
+           for(int x =9; x>9; ++x){
+                printf("8");
+                const int *x = &g;
+                char c = 'c';
+                if(x == 9){
+                    float g =145.04382;
+                }
+
+           }
+
+        }
+
+    }
+    }
+    return 0;
+}
